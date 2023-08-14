@@ -12,7 +12,7 @@ Whether you have a question, feedback, or just want to say hello, we'd love to h
 {%
   include button.html
   type="email"
-  text="contact@inteqx.com"
+  text="contact@inteqx.com" 
   link="contact@inteqx.com"
 %}
 {%
