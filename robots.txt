@@ -1,1 +1,1 @@
-Sitemap: /inteqx-website/sitemap.xml
+Sitemap: /sitemap.xml
