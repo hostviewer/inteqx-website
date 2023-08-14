@@ -18,7 +18,7 @@ Whether you have a question, feedback, or just want to say hello, we'd love to h
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
+  text="(555) 123-5309"
   link="+1-555-867-5309"
 %}
 {%
